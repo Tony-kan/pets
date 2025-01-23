@@ -1,0 +1,56 @@
+[
+    {
+        name:"Whiskers",
+        kind:{
+            systemImage:"cat.fill",
+        },
+        trick:"Tightrope Walking"
+            
+    },
+    {
+        name:"Roofus",
+        kind:{
+            systemImage:"dog.fill"
+        },
+        trick:"Home Runs"
+            
+    },  {
+        name:"Bubbles",
+        kind:{
+            systemImage:"fish.fill"
+        },
+        trick:"100m freestyle"
+            
+    },
+    {
+        name:"Mango",
+        kind:{
+            systemImage:"bird.fill"
+        },
+        trick:"Basketball dunk"
+            
+    },
+    {
+        name:"Ziggy",
+        kind:{
+            systemImage:"lizard.fill"
+        },
+        trick:"Parkour"
+            
+    },  {
+        name:"Sheldon",
+        kind:{
+            systemImage:"tortoise.fill"
+        },
+        trick:"Kickflip"
+            
+    },
+    {
+        name:"Chirpy",
+        kind:{
+            systemImage:"ant.fill"
+        },
+        trick:"Canon in D"
+            
+    },
+]
